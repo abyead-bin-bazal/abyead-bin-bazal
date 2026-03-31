@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abyead</h1>
-<h3 align="center">A Statistics graduate who is always fascinated by numbers and patterns. I love working with data and uncovering meaningful insights that help drive better decisions.</h3>
+<h3 align="center">A Data Analyst in progress</h3>
 
-<img align="right" alt="Coding" width="400" src="http://static.vecteezy.com/system/resources/thumbnails/069/673/952/small/young-programmer-working-on-code-illustration-vector.jpg">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFjYm5udTJ0bzExeHplZ3V0Z3l3cnlrenRvZ2l2YzBucTAzZG9pOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyead-bin-bazal&label=Profile%20views&color=0e75b6&style=flat" alt="abyead-bin-bazal" /> </p>
 
