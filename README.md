@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abyead</h1>
-<h3 align="center">A Data Analyst in progress</h3>
+<h3 align="center">A Data Analyst in progress. I love working with data and uncovering meaningful insights.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJsdnF1cDA1MHJjb3BpZTRtaW44MzcxaHdzaWk4OXl0bXRqczQzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.gif">
 
