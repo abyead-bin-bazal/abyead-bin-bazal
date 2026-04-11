@@ -1,7 +1,7 @@
 <img src="https://github.com/abyead-bin-bazal/abyead-bin-bazal/blob/main/Hello%20World%20This%20is%20Abyead.gif" width="100%" />
 <h3 align="center">A Data Analyst in progress. I love working with data and uncovering meaningful insights.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJsdnF1cDA1MHJjb3BpZTRtaW44MzcxaHdzaWk4OXl0bXRqczQzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJsdnF1cDA1MHJjb3BpZTRtaW44MzcxaHdzaWk4OXl0bXRqczQzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyead-bin-bazal&label=Profile%20views&color=0e75b6&style=flat" alt="abyead-bin-bazal" /> </p>
 
